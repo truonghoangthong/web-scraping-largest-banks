@@ -1,0 +1,15 @@
+2025-02-09 16:06:19.623681:Data extraction complete. Initiating Transformation process
+2025-02-09 16:06:20.466064:Data extraction complete. Initiating Transformation process
+2025-02-09 16:06:20.478101:Data transformation complete. Initiating Loading process
+2025-02-09 16:06:21.363744:Data extraction complete. Initiating Transformation process
+2025-02-09 16:06:21.366773:Data transformation complete. Initiating Loading process
+2025-02-09 16:06:21.374656:Data saved to CSV file
+2025-02-09 16:06:22.244969:Data extraction complete. Initiating Transformation process
+2025-02-09 16:06:22.247968:Data transformation complete. Initiating Loading process
+2025-02-09 16:06:22.258553:SQL Connection initiated
+2025-02-09 16:06:22.276476:Data loaded to Database as a table, Executing queries
+2025-02-09 16:06:22.276476:Server Connection closed
+2025-02-09 16:06:22.276476:Data loaded to Database as a table, Executing queries
+2025-02-09 16:06:22.278845:SQL Connection initiated
+2025-02-09 16:06:22.281652:Process Complete
+2025-02-09 16:06:22.281652:Server Connection closed
