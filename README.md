@@ -30,7 +30,6 @@ I used Python to scrape, tweak, and store the data. Here’s how it all came tog
 
 1. **Web Scraping**:
    - Pulled bank names and market caps (in USD billions) from a Wikipedia table using `BeautifulSoup`.
-   - Had to deal with some wonky HTML table quirks, which was a bit of a head-scratcher but kinda fun to sort out!
 2. **Data Transformation**:
    - Loaded exchange rates from `exchange_rate.csv` and used them to convert market caps into GBP, EUR, and INR (e.g., Bank of America’s $231.52B USD became €215.31B EUR).
    - Rounded everything to two decimals to keep it tidy.
